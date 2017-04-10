@@ -1,0 +1,7 @@
+torrents/*
+!torrents/.keep
+
+config.json
+node_modules
+.idea
+*.iml

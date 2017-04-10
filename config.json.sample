@@ -1,0 +1,11 @@
+{
+  "torrentDir": "./torrents/",
+  "dataDir": "G:/",
+
+  "utorrent": {
+    "ip": "",
+    "port": 8080,
+    "user": "admin",
+    "pass": "password"
+  }
+}
