@@ -1,7 +1,11 @@
 torrents/*
 !torrents/.keep
+output/*
+!output/.keep
 
 config.json
 node_modules
 .idea
 *.iml
+
+resume.dat
